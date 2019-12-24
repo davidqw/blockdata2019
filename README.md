@@ -16,4 +16,4 @@ HODL Token采用 ERC-721 规范生成，每年仅发行一次，限区块链大�
 
 
 ### 合约地址
-![0xe8ebeb96e74f81ec8aad8e2e3e8a68309cb86908](https://etherscan.io/address/0xe8ebeb96e74f81ec8aad8e2e3e8a68309cb86908#code)
+[0xe8ebeb96e74f81ec8aad8e2e3e8a68309cb86908](https://etherscan.io/address/0xe8ebeb96e74f81ec8aad8e2e3e8a68309cb86908#code)
